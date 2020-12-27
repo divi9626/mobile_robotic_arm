@@ -1,2 +1,0 @@
-main_assem
--DCATKIN_DEVEL_PREFIX=/home/divyam/test_ws/devel -DCMAKE_INSTALL_PREFIX=/home/divyam/test_ws/install -G Unix Makefiles
